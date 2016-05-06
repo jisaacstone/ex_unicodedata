@@ -1,0 +1,18 @@
+--2016-01-12 20:42:55--  ftp://ftp.unicode.org/Public/UNIDATA/EastAsianWidth.txt
+           => 'EastAsianWidth.txt'
+Resolving ftp.unicode.org... 216.97.88.9
+Connecting to ftp.unicode.org|216.97.88.9|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /Public/UNIDATA ... done.
+==> SIZE EastAsianWidth.txt ... 154620
+==> PASV ... done.    ==> RETR EastAsianWidth.txt ... done.
+Length: 154620 (151K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 33%  165K 1s
+    50K .......... .......... .......... .......... .......... 66%  427K 0s
+   100K .......... .......... .......... .......... .......... 99%  816K 0s
+   150K                                                       100% 19.9K=0.5s
+
+2016-01-12 20:42:57 (313 KB/s) - 'EastAsianWidth.txt' saved [154620]
+
